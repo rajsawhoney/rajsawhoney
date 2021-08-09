@@ -28,6 +28,10 @@ If your backend (APIs) is ready and you are looking for a developer to integrate
 ## Here's the link to my portfolio:  https://rajsahani.com.np/#about-me
   
 
-
-
 ## Thanks and Cheers.
+
+<br/>
+<br/>
+
+**My Github Stats + Languages & Tools** <br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsawhoney&custom_title=Razz Sawhoney&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Razz's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsawhoney&layout=compact&theme=default" />
