@@ -1,5 +1,10 @@
-<div class="banner__container"><div class="banner__container__texts"><h2>Hey there, <span>This is me Razz Sawhoney</span></h2><p>A very passionate and hardworking poet in Programming. I love learning new tech ideas and implementing them in my projects. Professionally, I am Full Stack Web App & Mobile App Developer in React.js and React Native with Django & Django Rest Framework in the Backend.</p><div class="short__info"></div></div></div>
-============================================================================================
+Hi there 👋, This is me, Razz Sawhoney
+=====================================
+
+A Full Stack Developer
+----------------------
+
+A very passionate and hardworking poet in Programming. I love learning new tech ideas and implementing them in my projects. Professionally, I am Full Stack Web & Mobile App Developer in React.js and React Native with Django & Django Rest Framework in the Backend.
 
 ## My Development Skills
 
